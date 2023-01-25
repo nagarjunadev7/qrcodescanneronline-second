@@ -1,0 +1,10 @@
+.aboutus{
+    position: relative;
+    top: 40vh;
+    text-align: center;
+}
+@media screen and (max-width: 480px) {
+    .aboutus{
+        top: 2vh;  
+    } 
+}
